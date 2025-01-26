@@ -245,6 +245,7 @@ ul {
   border-radius: 50%;
   background-color: rgb(209, 209, 175);
   flex-shrink: 0;
+  align-self: center;
 }
 .item-content span {
   background-color: rgb(209, 209, 175);
