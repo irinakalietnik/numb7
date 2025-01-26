@@ -76,7 +76,7 @@ ul {
   text-align: start;
 }
 .title-block {
-  font-size: 24px;
+  font-size: 30px;
   border-left: 4px solid rgb(231, 83, 57);
   padding: 20px;
 }
@@ -84,7 +84,9 @@ ul {
   font-size: 42px;
   text-transform: uppercase;
   font-weight: 800;
-  color: rgb(68, 67, 60);
+  color: rgb(99, 98, 92);
+  text-decoration: underline;
+  margin-top: 14px;
 }
 .title-award-block {
   align-self: flex-start;
